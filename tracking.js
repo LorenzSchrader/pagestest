@@ -15,3 +15,4 @@ document.getElementById("btn-signup").addEventListener("click", function () {
       // We log the event to the console, to ensure that the event is successfully tracked.
       console.log("Signup Event Tracked");
   });
+});
